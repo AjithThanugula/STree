@@ -1,0 +1,48 @@
+{
+  "Division":  [
+    {
+        "label": "Martial Arts" ,
+        "value": "MartialArts"
+    },
+    {
+        "label": "Dance" ,
+        "value": "Dance"
+    },
+    {
+        "label": "Yoga" ,
+        "value": "Yoga"
+    },
+    {
+        "label": "Crossfit" ,
+        "value": "Crossfit"
+    },
+    {
+        "label": "Gymnastics" ,
+        "value": "Gymnastics"
+    },
+    {
+        "label": "Summer" ,
+        "value": "Summer"
+    },
+    {
+        "label": "Camps" ,
+        "value": "Camps"
+    },
+    {
+        "label": "Nonprofit" ,
+        "value": "Nonprofit"
+    },
+    {
+        "label": "Church" ,
+        "value": "Church"
+    },
+    {
+        "label": "Consulting" ,
+        "value": "Consulting"
+    },
+    {
+        "label": "Other" ,
+        "value": "Other"
+    }
+]
+}
